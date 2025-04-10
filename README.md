@@ -48,6 +48,8 @@ The simulator generates continuous streams of sensor data replicating an actual 
 - AWS Glue creates and manages data catalogs for optimized query performance.
 - Amazon Athena facilitates rapid querying for ad-hoc analysis.
 - Amazon Redshift provides powerful warehousing capabilities enabling deeper analysis and BI integration.
+-  <img src="https://github.com/user-attachments/assets/2f795b64-587b-49aa-bbbe-767f99b87cee" width="350" height="270">
+
 
 ## 🚦 Installation & Setup Guide
 
@@ -64,8 +66,11 @@ Follow these clear and simple installation steps to get UrbanSense running:
    ```bash
    docker-compose up -d
    ```
+   -  <img src="https://github.com/user-attachments/assets/fefa93de-eb06-44f0-9a26-3066a6f3f9d5" width="350" height="300">
 
-3. **AWS Configuration**
+
+
+4. **AWS Configuration**
    - Set up AWS services including S3, Glue, Athena, and Redshift.
    - Update configuration files with AWS credentials and resource endpoints.
 
